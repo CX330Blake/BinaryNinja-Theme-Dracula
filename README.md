@@ -1,3 +1,5 @@
+# Latest Version [Here](https://github.com/dracula/binary-ninja)
+
 # Dracula for [Binary Ninja](https://binary.ninja/)
 
 > A dark theme for [Binary Ninja](https://binary.ninja/).
